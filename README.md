@@ -6,9 +6,25 @@ Every company needs some bonding and team building even [Forbes says so](https:/
 
 A nice bit of escapism for a team is pretending to be somewhere else and attempted to work together to beat the common challenge, to support this, the Lasers and Feelings RPG helper was intended as a quick-and-easy way of beginning a team journey into Table Top Role Playing Games (TTRPG).
 
+### Existing game
+
+Lasers and Feelings is a free (CC BY 4.0 licensed) rules system for a TTRPG that can be run entirely based off one page of paper -
+
+![Lasers and Feelings one page rpg](/docs/lasers-and-feelings-rpg.png "Lasers and Feelings one page rpg")
+
 ## Design
 
-//todo
+The following prototype was created using [Excalidraw](https://excalidraw.com/) which is a brilliant and easy sketching/design tool, available for free, and also open-source for self-hosting.
+
+### Prototype
+
+On desktop view (the main focus)
+
+![Prototype web view](/docs/web-excalidraw.png "Prototype web view")
+
+On mobile view 
+
+![Prototype mobile view](/docs/mobile-excalidraw.png "Prototype mobile view")
 
 ## Planning
 

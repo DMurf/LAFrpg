@@ -2,7 +2,7 @@
 
 ## Proposition
 
-Every company needs some bonding and team building even [Forbes says so] (https://www.forbes.com/sites/brianscudamore/2016/03/09/why-team-building-is-the-most-important-investment-youll-make/). 
+Every company needs some bonding and team building even [Forbes says so](https://www.forbes.com/sites/brianscudamore/2016/03/09/why-team-building-is-the-most-important-investment-youll-make/). 
 
 A nice bit of escapism for a team is pretending to be somewhere else and attempted to work together to beat the common challenge, to support this, the Lasers and Feelings RPG helper was intended as a quick-and-easy way of beginning a team journey into Table Top Role Playing Games (TTRPG).
 
